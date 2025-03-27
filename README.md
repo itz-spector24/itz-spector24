@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @itz-spector24
+- 👋 Hi, I’m Arvind Royal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on projects
